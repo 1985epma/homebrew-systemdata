@@ -1,8 +1,8 @@
 class EpmaSystemData < Formula
   desc "Native macOS app to measure and clean System Data"
   homepage "https://github.com/1985epma/epma-system-data"
-  url "https://github.com/1985epma/epma-system-data/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "aad48cd0e99c917dde16d3b7a1700b53cc04e7a1f4c60a0ac4b6556a6e94c6b2"
+  url "https://github.com/1985epma/epma-system-data/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "894003a16a6a0d9c6a0c23dc1a4965a60fe7a84580b6055c23ca74cf0d3aea9f"
   license "MIT"
   head "https://github.com/1985epma/epma-system-data.git", branch: "master"
 
